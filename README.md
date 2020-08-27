@@ -12,7 +12,7 @@ HOW TO START THIS PROJECT:
 1. Download the zip file of the given folder.
 2. Extract the folder to the required destination.
 3. Open Command Prompt in your Windows device and change your directory to that of the location of your SpaceInvaders with the cd command 
-(For ex. : cd C:\Users\User\Downloads\SpaceInvader).
+(For ex. : cd C:\Users\User\Downloads\Space-Invader-master\SpaceInvaders).
 4. Also, use the command - python main.py to start with the game screen.
 5. Enjoy playing the game. 
 
