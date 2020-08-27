@@ -3,7 +3,7 @@
 PROJECT TITLE: Space-Invaders
 
 PROJECT: In this project, I created a game with the help of python and its libraries. 
-This is a spaceship shooting game where your spaceship shoots the alien spaceships with the help of bullets where arrows are used to navigate your spaceship and space is used to shoot the bullets.
+This is a spaceship shooting game where your spaceship shoots the alien spaceships with the help of bullets, where arrows are used to navigate your spaceship and space is used to shoot the bullets.
 
 VERSION or DATE: 27.07.2020
 
